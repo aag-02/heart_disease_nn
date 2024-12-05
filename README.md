@@ -20,7 +20,7 @@ This project aims to build a binary classification model to predict heart diseas
 
 2. **Run the main script:**
     ```bash
-    python src/main.py
+    python -m src.main
     ```
 
 ## Project Structure
